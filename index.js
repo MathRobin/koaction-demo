@@ -1,5 +1,5 @@
 const
-    Koaction = require('koaction'),
+    Koaction = require('@yorisa/koaction'),
     app = new Koaction();
 
 app
