@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@yorisa/koaction": "0.0.1"
+    "@koaction/koaction": "0.0.5",
+    "jest": "23.6.0"
   }
 }
